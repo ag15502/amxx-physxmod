@@ -28,6 +28,7 @@ This is a simple example demonstrating how to:
 2) Create and delete static objects (world), dynamic objects (spheres and chickens), and kinematic objects (player).
 3) Retrieve and assign object properties, and convert quaternion angles (used in PhysX) into Euler angles (used in the game).
 4) Detect collisions
+5) Raycast
 ```Pawn
 CODE
 ```
@@ -73,6 +74,7 @@ Hello world?
 2) Создание и удаление статических объектов (мир), динамических объектов (сферы и курицы), кинематичных объектов (игрок).
 3) Получение и задание свойств объектам, преобразование углов кватернионов (используются в PhysX) в углы Эйлера (используются в игре).
 4) Отлов коллизий
+5) Raycast (трассирование луча)
 ```Pawn
 CODE
 ```
