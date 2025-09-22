@@ -5,6 +5,7 @@ EN:
 What is PhysXMOD?
 PhysXMOD is an AMXModX (http://www.amxmodx.org/ ) module (note: my module does not use the Metamod API).
 PhysXMOD enables developers to utilize the external Nvidia PhysX 4 physics engine.
+The currently used version of PhysX 4 does not support CUDA hardware acceleration on Linux. Physics calculations will be performed exclusively on the CPU. On Windows, hardware acceleration is supported and functional.
 
 Requirements:
 1) AMXModX (version appears to be irrelevant, but I have only tested with versions 1.9.0 and 1.10.0).
@@ -48,6 +49,7 @@ RU:
 Что такое PhysXMOD?
 PhysXMOD - это AMXModX (http://www.amxmodx.org/) модуль (кстати, мой модуль не использует Metamod API).
 PhysXMOD позволяет разработчикам использовать внешний физический движок Nvidia PhysX 4.
+Текущая используемая версия версия PhysX 4 не поддерживает аппаратное ускорение CUDA на Linux. Физика будет рассчитываться исключительно на CPU. На Windows аппаратное ускорение работает.
 
 Требования: 
 1) AMXModX (похоже, что версия не имеет значения, но я тестировал только на 1.9.0 и 1.10.0)
