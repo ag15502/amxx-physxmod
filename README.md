@@ -10,6 +10,7 @@ The currently used version of PhysX 4 does not support CUDA hardware acceleratio
 Requirements:
 1) AMXModX (version appears to be irrelevant, but I have only tested with versions 1.9.0 and 1.10.0).
 2) Ability to copy the PhysX libraries into the server's root directory—the directory from which the server is launched (i.e., not the game mod folder, but the server's root folder). If your hosting provider does not allow access to the server's root directory, you may attempt to copy the PhysX libraries there via a plugin (however, this does not work on certain hosts, such as MyArena).
+
 How does it work?
 The module allows you to create and interact with objects within the PhysX world, including dynamic, static, and kinematic objects.
 After creating an object, you can set and retrieve its properties. This enables you to apply PhysX physics to entities within the game world.
