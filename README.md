@@ -46,6 +46,8 @@ Building:
 
 Future Plans:
 
+Acknowledgments:
+
 RU:
 ===
 Что такое PhysXMOD?
@@ -91,3 +93,5 @@ CODE
 Сборка:
 
 Будущие планы:
+
+Благодарности:
